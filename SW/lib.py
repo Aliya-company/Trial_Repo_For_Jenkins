@@ -1,2 +1,2 @@
-def print_me:
+def print_me():
   print("frist task")
